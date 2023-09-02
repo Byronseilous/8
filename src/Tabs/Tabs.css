@@ -1,0 +1,80 @@
+/* Save Tab Page */
+.save-tab-form {
+  color: #ffffff;
+  width: 90%;
+  margin: 1.5em auto 0 auto;
+}
+
+.save-tab-form {
+  text-align: center;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+div.disabled-field > div.ui.input {
+  opacity: 4 !important;
+}
+
+div.truncate-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 17em;
+  margin: 0 auto;
+}
+
+.search .results {
+  display: none !important;
+}
+
+.no-result {
+  color: white;
+  text-align: center;
+}
+
+.close-tab {
+  font-weight: 600;
+  margin: 0.5em auto;
+}
+
+/* Tabs Page */
+.page-header {
+  position: relative;
+  height: 5em;
+}
+
+.page-header .home {
+  position: absolute;
+  left: 0.5em;
+  top: 1em;
+  color: #F9D873;
+}
+
+.tabs-tag {
+ color: #F9D873;
+}
+
+.tabs-main {
+  width:90%;
+  margin: 0.5em auto 0 auto;
+}
+
+.tabs-main .search-box {
+  margin-bottom: 3em;
+}
+
+.tabs-main .note, .tabs-main .list-icon {
+  color: white !important;
+}
+.tabs-main .note {
+  margin: 0.375em auto;
+  line-height: 1.275em;
+}
+
+.tabs-main .tab-meta {
+ color: grey !important;
+ font-style: italic;
+}
+
+.with-pointer {
+  cursor: pointer;
+}
