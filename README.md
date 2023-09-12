@@ -1,4 +1,4 @@
-# Tabify Extension
+# TabZen Extension
 Building a chrome extension with Contentful
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
